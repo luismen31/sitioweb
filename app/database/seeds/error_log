@@ -1,0 +1,6 @@
+[10-Mar-2015 15:35:14] PHP Fatal error:  Class 'Seeder' not found in /home4/jsaldana/public_html/sistecsolutions.net/app/database/seeds/DatabaseSeeder.php on line 3
+[10-Mar-2015 20:11:05] PHP Fatal error:  Class 'Seeder' not found in /home4/jsaldana/public_html/sistecsolutions.net/app/database/seeds/DatabaseSeeder.php on line 3
+[14-Mar-2015 11:27:25] PHP Fatal error:  Class 'Seeder' not found in /home4/jsaldana/public_html/sistecsolutions.net/app/database/seeds/DatabaseSeeder.php on line 3
+[17-Mar-2015 07:45:33] PHP Fatal error:  Class 'Seeder' not found in /home4/jsaldana/public_html/sistecsolutions.net/app/database/seeds/DatabaseSeeder.php on line 3
+[17-Mar-2015 17:25:48] PHP Fatal error:  Class 'Seeder' not found in /home4/jsaldana/public_html/sistecsolutions.net/app/database/seeds/DatabaseSeeder.php on line 3
+[18-Mar-2015 07:01:18] PHP Fatal error:  Class 'Seeder' not found in /home4/jsaldana/public_html/sistecsolutions.net/app/database/seeds/DatabaseSeeder.php on line 3

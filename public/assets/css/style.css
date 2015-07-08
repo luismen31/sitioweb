@@ -1,0 +1,433 @@
+@import url("http://fonts.googleapis.com/css?family=Lobster+Two:700");
+
+@font-face {
+  font-family: 'Roboto';
+  src: url('../fonts/Roboto/Roboto-Light.ttf') format('truetype');
+}
+
+/*CSS PARA EL FOOTER*/
+html,body, #wrap{
+  height: 100%; /*permite que tome el 100% de la pantalla*/
+}
+a{text-decoration: none;}
+body > #wrap{height: auto; min-height: 100%;} /*mantiene como minimo el 100% de alto de la pantalla*/
+#main{padding-bottom:342px; } /*Este padding sera el margen negativo y la altura del footer*/
+#footer{
+  width: 100%;
+  position: relative;
+  margin-top: -342px; /*tomando valor negativo del padding del main*/
+  height: 342px; /*altura igual que el padding para el footer*/
+  clear:both;
+  /*colores y diseno al footer*/
+  background: #3d3d3d;
+  -webkit-box-shadow: 0 0 3px 0 #5a5a5a;
+  -moz-box-shadow: 0 0 3px 0 #5a5a5a;
+  box-shadow: 0 0 3px 0 #5a5a5a;
+  font-size: 14px;
+  font-weight: normal;
+  padding-top: 15px;
+  z-index: 0;
+}
+/*clase que elimina elementos flotantes*/
+.clearf{
+  content: " ";
+  display: block;
+  height: 0;
+  clear: both;
+}
+.clearf{display: inline-block;}
+html .clearf{height: 1%;}
+.clearf{display: block;}
+/*Fin de la clase para el FOOTER*/
+
+/*css para efecto parallax*/
+.ha-bg-parallax {
+  /*background: url(http://thememove.com/shoot/white/assets/img/sample/1920x650/3.jpg) 50% -135px no-repeat fixed;*/
+  background: url(../../img/street-phone.jpg) 100% 0px no-repeat fixed;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  -webkit-background-size: cover;
+  background-size: cover;
+  /*height: 500px;*/
+  height: 654px;
+  margin: 0 auto;
+  width: 100%;
+  display: table;
+  vertical-align: middle;
+}
+
+.ha-bg-parallax .ha-parallax-body {
+    display: table-cell;
+    vertical-align: middle;
+}
+
+.ha-bg-parallax .ha-content-whitecolor {
+    font-size: 20px;
+    color: #ffffff;
+    text-shadow:1px 1px #6d6d6d;
+    width: 45%;
+    margin: auto;
+}
+
+.ha-bg-parallax .ha-diamond-divider-md {
+    margin: 15px 0px;
+}
+
+.ha-bg-parallax .ha-heading-parallax {
+    font-style: italic;
+    font-weight: bold;
+    font-size: 16px;
+    text-shadow:1px 1px #6d6d6d;
+    text-transform: none;
+    color: #ffffff;
+    padding-bottom: 0px;
+}
+/*CSS para los botones de navegacion*/
+/* Extra markup and styles for table-esque vertical and horizontal centering */
+.site-wrapper {
+  display: table;
+  width: 100%;
+  height: 100%; /* For at least Firefox */
+  min-height: 100%;
+}
+.site-wrapper-inner {
+  display: table-cell;
+  vertical-align: top;
+}
+.cover-container {
+  margin-right: auto;
+  margin-left: auto;
+}
+
+/*
+ * Header
+ */
+ /* Pull out the header and footer */
+.masthead {
+  position: fixed;
+  top : 0px;
+  z-index: 11;   /*sirve para que este como primera capa que se muestra*/ 
+  width: 100%;
+}
+/*clase que se añade al hacer scroll*/
+.masthead-background{
+  background: #3d3d3d;
+  -webkit-transition: background 0.5s ease-in-out;
+  -moz-transition: background 0.5s ease-in-out;
+  -ms-transition: background 0.5s ease-in-out;
+  -o-transition: background 0.5s ease-in-out;
+  transition: background 0.5s ease-in-out;
+}
+.masthead-brand{
+  margin- top: 10px; /*original*/
+  position: relative;
+  top: -20px;
+  margin-bottom: 0px;
+}
+@media(max-width: 767px){
+  .masthead-brand{
+    margin- top: 10px;
+    position: relative;
+    top: 0px;
+  }
+
+}
+.masthead-brand a{
+  font-family: "Lobster Two", cursive, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 46px;
+  color: #0D87E8;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  text-shadow: 1px 2px 4px #575757;
+}
+.masthead-brand a:hover{
+  text-decoration: none;
+  border-bottom-color: transparent;
+}
+.masthead-nav > li {
+  display: inline-block;
+}
+.masthead-nav > li + li {
+  margin-left: 10px;
+}
+.masthead-nav > li > a {
+  padding-right: 0;
+  padding-left: 0;
+  font-size: 16px;
+  font-weight: bold;
+  color: #a3a3a3; /* IE8 proofing */
+  color: rgba(211, 211, 211, 0.75);
+  border-bottom: 3px solid transparent;
+}
+.masthead-nav > li > a:hover,
+.masthead-nav > li > a:focus {
+  color: #0D87E8;
+  background-color: transparent;
+  /*border-bottom-color: #a9a9a9;
+  border-bottom-color: rgba(255,255,255,.25);*/
+  border-bottom-color: #0D87E8;
+  border-bottom-color: rgba(13, 135, 232, .5); 
+}
+/*clase activo para scrollnav*/\
+.activo {
+  color: #fff !important;
+  text-decoration: underline !important;
+  -webkit-transform: translate3d(0, 0, 0);
+  -moz-transform: translate3d(0, 0, 0);
+  -o-transform: translate3d(0, 0, 0);
+  -ms-transform: translate3d(0, 0, 0);
+  transform: translate3d(0, 0, 0);
+}
+.masthead-nav > .activo > a,
+.masthead-nav > .activo > a:hover,
+.masthead-nav > .activo > a:focus {
+  color: #fff;
+  border-bottom-color: #fff;
+}
+
+@media (min-width: 768px) {
+  .masthead-brand {
+    float: left;
+  }
+  .masthead-nav {
+    float: right;
+  }
+  ul.masthead-nav{
+    padding-top: 11px;
+  }
+}
+/*
+ * Affix and center
+ */
+@media (min-width: 768px) {
+  /* Start the vertical centering */
+  .site-wrapper-inner {
+    vertical-align: middle;
+  }
+  /* Padding for spacing */
+  .inner {
+    padding: 0px 80px;
+  }
+  /* Handle the widths */
+  .masthead{
+    width: 100%; /* Must be percentage or pixels for horizontal alignment */
+  }
+}
+
+@media (min-width: 992px) {
+  .masthead {
+    width: 100%;
+  }
+}
+
+/* CUSTOMIZE THE CAROUSEL
+-------------------------------------------------- */
+
+/* Carousel base class */
+.carousel {
+  height: 485px;
+  margin-bottom: 20px;
+  backg round-color: #3d3d3d;
+  
+
+}
+/* Since positioning the image, we need to help out the caption */
+.carousel-caption {
+  z-index: 10;
+}
+
+/* Declare heights because of positioning of img element */
+.carousel .item {
+  height: 485px;
+}
+.carousel-inner > .item > img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  height: 485px;
+
+  opacity: 0;
+  -webkit-transition-property: opacity;
+      -ms-transition-property: opacity;
+          transition-property: opacity;
+}
+
+.carousel-inner > .active > img {
+  opacity: 1;
+  -webkit-transition-property: opacity;
+      -ms-transition-property: opacity;
+          transition-property: opacity;
+}
+
+/*jquery slider*/
+.slide {
+  position: relative;
+  list-style: none;
+  overflow: hidden;
+  width: 100%;
+  padding: 0;
+  margin: 0;
+}
+
+.slide li {
+  -webkit-backface-visibility: hidden;
+  position: absolute;
+  display: none;
+  width: 100%;
+  left: 0;
+  top: 0;
+  background: transparent;
+}
+
+.slide li:first-child {
+  position: relative;
+  display: block;
+  float: left;
+}
+
+.slide img {
+  display: block;
+  height: auto;
+  float: left;
+  width: 100%;
+  border: 0;
+}
+div.caption-slide{
+  background: rgba(0,0,0,0.8);
+  color: #dfdfdf;
+  padding:7px;
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  text-align: center;
+  width: 100%;
+}
+/*contenido*/
+.space{
+  padding-top: 60px;
+}
+.sp-bottom{
+  padding-bottom: 20px;
+}
+h2{
+  font-family: "Lobster Two", cursive, "Helvetica Neue", Helvetica, Arial, sans-serif;  
+  font-weight: bold;
+  /*color: #7d7d7d;*/
+  color: #2972B1;
+  text-shadow: 1px 1px 1px #3d3d3d;
+  line-height: 56px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+h5{
+  font-weight: bold;
+}
+.centrado{
+  text-align: center;
+}
+.size-text{
+  font-size: 18px;
+}
+/*css para el boton top */
+#top{
+  position: fixed;
+  bottom: 10px;
+  right: 10px;
+  display: none;
+  z-index: 100;
+}
+.btn-link:hover{
+  text-decoration: underline;
+}
+/*css para el Zoom de las imagenes de los clientes*/
+.panel .panel-body { position: relative; padding: 0 !important; overflow: hidden; height: auto; }
+.panel .panel-body a { overflow: hidden; }
+.panel .panel-body a img { display: block; margin: 0; width: 100%; height: auto; 
+    transition: all 0.5s; 
+    -moz-transition: all 0.5s; 
+    -webkit-transition: all 0.5s; 
+    -o-transition: all 0.5s; 
+}
+.panel .panel-body a.zoom:hover img { transform: scale(1.3); -ms-transform: scale(1.3); -webkit-transform: scale(1.3); -o-transform: scale(1.3); -moz-transform: scale(1.3); }
+.panel .panel-body a.zoom span.overlay { position: absolute; top: 0; left: 0; visibility: hidden; height: 100%; width: 100%; background-color: #000; opacity: 0; 
+    transition: opacity .25s ease-out;
+    -moz-transition: opacity .25s ease-out;
+    -webkit-transition: opacity .25s ease-out;
+    -o-transition: opacity .25s ease-out;
+}     
+.panel .panel-body a.zoom:hover span.overlay { display: block; visibility: visible; opacity: 0.55; -moz-opacity: 0.55; -webkit-opacity: 0.55; filter: alpha(opacity=65); -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=65)"; }  
+.panel .panel-body a.zoom:hover span.overlay i { position: absolute; top: 45%; left: 0%; width: 100%; font-size: 2.25em; color: #fff !important; text-align: center;
+    opacity: 1;
+    -moz-opacity: 1;
+    -webkit-opacity: 1;
+    filter: alpha(opacity=1);    
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=1)";
+}
+/*Css para espaciado de los clientes*/
+.title-cliente{
+  padding-top:15%;
+  text-align: center;
+}
+@media(max-width: 767px){
+  .title-cliente{
+    padding-top: 0px;
+  }
+}
+#contacto{
+  background: #3d3d3d;
+}
+#contacto h4,
+#contacto .input-group-addon{
+  color: #fff;
+}
+.color-input{
+  color: #b7b7b7;
+}
+@media(max-width: 767px){
+  .center-social{
+    text-align: center;
+  }
+}
+.sociales span{
+  color: #fff;
+  font-size: 18px;
+  position: relative;
+  bottom: 5px;
+}
+.btn-social{
+  color: #fff;
+  display: inline-block;
+  padding: 10px 0px 0px 5px;
+  margin-top: 5px;
+  font-size: 16px;
+}
+.facebook:hover,.facebook:active{
+  color: #3b5998;
+}
+.plus:hover,.plus:active{
+  color:#d34836;
+}
+.twitter:hover,.twitter:active{
+  color:#1dcaff;
+}
+
+.footer{
+  color: #fff;
+  font-size: 16px;
+  line-height: 20px;
+  border-top:1px solid #6f6f6f;margin-top:10px;padding-top:15px;
+}
+/*fondo gris de los servicios*/
+div#nosotros{
+  margin-top:100px;
+  background: #efefef;
+}
+[data-notify="progressbar"] {
+  margin-bottom: 0px;
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  width: 100%;
+  height: 5px;
+}
