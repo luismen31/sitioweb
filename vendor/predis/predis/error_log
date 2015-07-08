@@ -1,0 +1,12 @@
+[10-Mar-2015 15:36:30] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/autoload.php on line 14
+[10-Mar-2015 15:36:30] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/autoload.php on line 14
+[10-Mar-2015 20:10:50] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/autoload.php on line 14
+[10-Mar-2015 20:10:50] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/autoload.php on line 14
+[14-Mar-2015 11:27:05] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/autoload.php on line 14
+[14-Mar-2015 11:27:05] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/autoload.php on line 14
+[17-Mar-2015 04:31:19] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/autoload.php on line 14
+[17-Mar-2015 04:31:19] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/autoload.php on line 14
+[17-Mar-2015 07:42:13] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/autoload.php on line 14
+[17-Mar-2015 07:42:13] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/autoload.php on line 14
+[18-Mar-2015 01:55:01] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/autoload.php on line 14
+[18-Mar-2015 01:55:01] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/autoload.php on line 14

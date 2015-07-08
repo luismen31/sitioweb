@@ -1,0 +1,15 @@
+[13-Mar-2015 02:22:21] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/patchwork/utf8/class/Patchwork/PHP/Shim/Mbstring.php on line 11
+[13-Mar-2015 14:33:26] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/patchwork/utf8/class/Patchwork/PHP/Shim/Normalizer.php on line 11
+[13-Mar-2015 15:12:18] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/patchwork/utf8/class/Patchwork/PHP/Shim/Iconv.php on line 11
+[14-Mar-2015 05:11:07] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/patchwork/utf8/class/Patchwork/PHP/Shim/Intl.php on line 11
+[14-Mar-2015 10:00:04] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/patchwork/utf8/class/Patchwork/PHP/Shim/Xml.php on line 11
+[14-Mar-2015 12:08:20] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/patchwork/utf8/class/Patchwork/PHP/Shim/Mbstring.php on line 11
+[14-Mar-2015 12:12:15] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/patchwork/utf8/class/Patchwork/PHP/Shim/Normalizer.php on line 11
+[14-Mar-2015 12:12:33] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/patchwork/utf8/class/Patchwork/PHP/Shim/Iconv.php on line 11
+[14-Mar-2015 12:17:49] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/patchwork/utf8/class/Patchwork/PHP/Shim/Intl.php on line 11
+[14-Mar-2015 16:26:14] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/patchwork/utf8/class/Patchwork/PHP/Shim/Xml.php on line 11
+[05-Jun-2015 08:10:31] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/patchwork/utf8/class/Patchwork/PHP/Shim/Mbstring.php on line 11
+[29-Jun-2015 11:31:43] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/patchwork/utf8/class/Patchwork/PHP/Shim/Normalizer.php on line 11
+[29-Jun-2015 11:32:54] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/patchwork/utf8/class/Patchwork/PHP/Shim/Iconv.php on line 11
+[01-Jul-2015 12:30:02] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/patchwork/utf8/class/Patchwork/PHP/Shim/Intl.php on line 11
+[02-Jul-2015 03:20:07] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/patchwork/utf8/class/Patchwork/PHP/Shim/Xml.php on line 11

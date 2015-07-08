@@ -1,0 +1,4 @@
+[16-Mar-2015 08:12:22] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/Session/Flash/AutoExpireFlashBagTest.php on line 12
+[16-Mar-2015 09:49:21] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/Session/Flash/AutoExpireFlashBagTest.php on line 12
+[16-Mar-2015 15:32:23] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/Session/Flash/FlashBagTest.php on line 12
+[16-Mar-2015 17:15:22] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/Session/Flash/FlashBagTest.php on line 12

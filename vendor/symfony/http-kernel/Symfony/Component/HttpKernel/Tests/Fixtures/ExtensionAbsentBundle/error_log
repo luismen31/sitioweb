@@ -1,0 +1,2 @@
+[16-Mar-2015 15:13:43] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Fixtures/ExtensionAbsentBundle/ExtensionAbsentBundle.php on line 12
+[16-Mar-2015 16:51:54] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Fixtures/ExtensionAbsentBundle/ExtensionAbsentBundle.php on line 12

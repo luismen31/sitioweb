@@ -1,0 +1,4 @@
+[16-Mar-2015 16:00:56] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/tests/Predis/Command/Processor/ProcessorChainTest.php on line 12
+[16-Mar-2015 17:30:29] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/tests/Predis/Command/Processor/ProcessorChainTest.php on line 12
+[16-Mar-2015 19:45:44] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/tests/Predis/Command/Processor/KeyPrefixProcessorTest.php on line 12
+[16-Mar-2015 22:42:53] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/tests/Predis/Command/Processor/KeyPrefixProcessorTest.php on line 12

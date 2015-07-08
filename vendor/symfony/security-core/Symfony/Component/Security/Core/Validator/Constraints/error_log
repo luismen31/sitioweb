@@ -1,0 +1,4 @@
+[16-Mar-2015 09:55:21] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/security-core/Symfony/Component/Security/Core/Validator/Constraints/UserPassword.php on line 12
+[16-Mar-2015 11:30:08] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/security-core/Symfony/Component/Security/Core/Validator/Constraints/UserPassword.php on line 12
+[16-Mar-2015 12:58:11] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/security-core/Symfony/Component/Security/Core/Validator/Constraints/UserPasswordValidator.php on line 12
+[16-Mar-2015 14:36:03] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/security-core/Symfony/Component/Security/Core/Validator/Constraints/UserPasswordValidator.php on line 12

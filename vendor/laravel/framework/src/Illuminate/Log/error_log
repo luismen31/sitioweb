@@ -1,0 +1,8 @@
+[10-Mar-2015 15:42:54] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Log/LogServiceProvider.php on line 1
+[10-Mar-2015 15:42:55] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Log/Writer.php on line 1
+[11-Mar-2015 21:52:15] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Log/LogServiceProvider.php on line 1
+[12-Mar-2015 01:52:18] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Log/Writer.php on line 1
+[14-Mar-2015 12:01:15] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Log/LogServiceProvider.php on line 1
+[14-Mar-2015 12:02:12] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Log/Writer.php on line 1
+[10-May-2015 03:20:16] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Log/LogServiceProvider.php on line 1
+[13-May-2015 01:50:29] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Log/Writer.php on line 1

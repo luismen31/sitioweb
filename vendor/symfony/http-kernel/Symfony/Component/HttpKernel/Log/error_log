@@ -1,0 +1,9 @@
+[13-Mar-2015 13:52:13] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Log/LoggerInterface.php on line 12
+[13-Mar-2015 20:04:33] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Log/NullLogger.php on line 12
+[14-Mar-2015 10:42:15] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Log/DebugLoggerInterface.php on line 12
+[14-Mar-2015 12:11:59] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Log/LoggerInterface.php on line 12
+[14-Mar-2015 12:14:22] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Log/NullLogger.php on line 12
+[14-Mar-2015 17:18:39] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Log/DebugLoggerInterface.php on line 12
+[17-Jun-2015 04:47:49] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Log/LoggerInterface.php on line 12
+[30-Jun-2015 16:17:33] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Log/NullLogger.php on line 12
+[02-Jul-2015 04:54:54] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Log/DebugLoggerInterface.php on line 12

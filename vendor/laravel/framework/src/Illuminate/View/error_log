@@ -1,0 +1,15 @@
+[11-Mar-2015 02:32:12] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/View/View.php on line 1
+[11-Mar-2015 03:35:43] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 1
+[11-Mar-2015 15:06:24] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php on line 1
+[12-Mar-2015 01:38:28] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 1
+[12-Mar-2015 10:11:30] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/View/ViewFinderInterface.php on line 1
+[14-Mar-2015 11:57:08] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/View/View.php on line 1
+[14-Mar-2015 11:57:17] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 1
+[14-Mar-2015 11:59:33] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php on line 1
+[14-Mar-2015 12:02:09] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 1
+[14-Mar-2015 12:04:12] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/View/ViewFinderInterface.php on line 1
+[07-Apr-2015 03:17:22] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/View/View.php on line 1
+[07-Apr-2015 23:26:55] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/View/FileViewFinder.php on line 1
+[30-Apr-2015 05:46:52] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/View/ViewServiceProvider.php on line 1
+[12-May-2015 21:14:01] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/View/Factory.php on line 1
+[19-May-2015 09:17:47] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/View/ViewFinderInterface.php on line 1

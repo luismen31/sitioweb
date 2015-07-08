@@ -1,0 +1,15 @@
+[10-Mar-2015 15:41:28] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/filp/whoops/src/deprecated/Zend/ExceptionStrategy.php on line 7
+[10-Mar-2015 15:41:29] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/filp/whoops/src/deprecated/Zend/Module.php on line 19
+[10-Mar-2015 15:41:29] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/filp/whoops/src/deprecated/Zend/RouteNotFoundStrategy.php on line 7
+[11-Mar-2015 00:42:11] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/filp/whoops/src/deprecated/Zend/Module.php on line 19
+[11-Mar-2015 14:42:08] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/filp/whoops/src/deprecated/Zend/RouteNotFoundStrategy.php on line 7
+[11-Mar-2015 16:54:20] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/filp/whoops/src/deprecated/Zend/ExceptionStrategy.php on line 7
+[14-Mar-2015 11:56:40] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/filp/whoops/src/deprecated/Zend/Module.php on line 19
+[14-Mar-2015 11:59:29] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/filp/whoops/src/deprecated/Zend/RouteNotFoundStrategy.php on line 7
+[14-Mar-2015 12:00:00] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/filp/whoops/src/deprecated/Zend/ExceptionStrategy.php on line 7
+[17-Mar-2015 08:07:13] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/filp/whoops/src/deprecated/Zend/Module.php on line 19
+[17-Mar-2015 08:34:48] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/filp/whoops/src/deprecated/Zend/ExceptionStrategy.php on line 7
+[17-Mar-2015 08:46:58] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/filp/whoops/src/deprecated/Zend/RouteNotFoundStrategy.php on line 7
+[06-Apr-2015 01:36:05] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/filp/whoops/src/deprecated/Zend/Module.php on line 19
+[29-Apr-2015 22:17:36] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/filp/whoops/src/deprecated/Zend/RouteNotFoundStrategy.php on line 7
+[01-May-2015 14:02:07] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/filp/whoops/src/deprecated/Zend/ExceptionStrategy.php on line 7

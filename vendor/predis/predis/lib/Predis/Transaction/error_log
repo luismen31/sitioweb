@@ -1,0 +1,8 @@
+[11-Mar-2015 18:47:28] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/lib/Predis/Transaction/AbortedMultiExecException.php on line 12
+[11-Mar-2015 23:40:29] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/lib/Predis/Transaction/MultiExecContext.php on line 12
+[14-Mar-2015 12:00:28] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/lib/Predis/Transaction/AbortedMultiExecException.php on line 12
+[14-Mar-2015 12:01:40] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/lib/Predis/Transaction/MultiExecContext.php on line 12
+[20-Mar-2015 00:17:25] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/lib/Predis/Transaction/MultiExecContext.php on line 12
+[20-Mar-2015 12:58:46] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/lib/Predis/Transaction/AbortedMultiExecException.php on line 12
+[02-May-2015 17:56:16] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/lib/Predis/Transaction/AbortedMultiExecException.php on line 12
+[11-May-2015 14:52:36] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/lib/Predis/Transaction/MultiExecContext.php on line 12

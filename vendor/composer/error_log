@@ -1,0 +1,28 @@
+[10-Mar-2015 15:34:49] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/composer/ClassLoader.php on line 13
+[10-Mar-2015 15:34:52] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home4/jsaldana/public_html/sistecsolutions.net/vendor/composer/autoload_real.php on line 23
+[10-Mar-2015 15:34:52] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home4/jsaldana/public_html/sistecsolutions.net/vendor/composer/autoload_real.php on line 23
+[10-Mar-2015 15:34:52] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/composer/autoload_real.php on line 23
+[10-Mar-2015 20:00:56] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/composer/ClassLoader.php on line 13
+[10-Mar-2015 20:01:00] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home4/jsaldana/public_html/sistecsolutions.net/vendor/composer/autoload_real.php on line 23
+[10-Mar-2015 20:01:00] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home4/jsaldana/public_html/sistecsolutions.net/vendor/composer/autoload_real.php on line 23
+[10-Mar-2015 20:01:00] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/composer/autoload_real.php on line 23
+[13-Mar-2015 14:03:48] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/composer/ClassLoader.php on line 13
+[13-Mar-2015 15:55:21] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home4/jsaldana/public_html/sistecsolutions.net/vendor/composer/autoload_real.php on line 23
+[13-Mar-2015 15:55:21] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home4/jsaldana/public_html/sistecsolutions.net/vendor/composer/autoload_real.php on line 23
+[13-Mar-2015 15:55:21] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/composer/autoload_real.php on line 23
+[14-Mar-2015 11:17:16] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/composer/ClassLoader.php on line 13
+[14-Mar-2015 11:17:20] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home4/jsaldana/public_html/sistecsolutions.net/vendor/composer/autoload_real.php on line 23
+[14-Mar-2015 11:17:20] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home4/jsaldana/public_html/sistecsolutions.net/vendor/composer/autoload_real.php on line 23
+[14-Mar-2015 11:17:20] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/composer/autoload_real.php on line 23
+[17-Mar-2015 07:40:38] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/composer/ClassLoader.php on line 13
+[17-Mar-2015 07:41:58] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home4/jsaldana/public_html/sistecsolutions.net/vendor/composer/autoload_real.php on line 23
+[17-Mar-2015 07:41:58] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home4/jsaldana/public_html/sistecsolutions.net/vendor/composer/autoload_real.php on line 23
+[17-Mar-2015 07:41:58] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/composer/autoload_real.php on line 23
+[18-Mar-2015 03:45:20] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/composer/ClassLoader.php on line 13
+[18-Mar-2015 05:03:53] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home4/jsaldana/public_html/sistecsolutions.net/vendor/composer/autoload_real.php on line 23
+[18-Mar-2015 05:03:53] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home4/jsaldana/public_html/sistecsolutions.net/vendor/composer/autoload_real.php on line 23
+[18-Mar-2015 05:03:53] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/composer/autoload_real.php on line 23
+[06-Apr-2015 11:46:09] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/composer/ClassLoader.php on line 13
+[06-Apr-2015 15:57:34] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home4/jsaldana/public_html/sistecsolutions.net/vendor/composer/autoload_real.php on line 23
+[06-Apr-2015 15:57:34] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home4/jsaldana/public_html/sistecsolutions.net/vendor/composer/autoload_real.php on line 23
+[06-Apr-2015 15:57:34] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/composer/autoload_real.php on line 23

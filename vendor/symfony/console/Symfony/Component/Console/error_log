@@ -1,0 +1,12 @@
+[11-Mar-2015 15:40:31] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/console/Symfony/Component/Console/Application.php on line 12
+[11-Mar-2015 17:57:31] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/console/Symfony/Component/Console/Shell.php on line 12
+[11-Mar-2015 23:55:25] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/console/Symfony/Component/Console/ConsoleEvents.php on line 12
+[14-Mar-2015 11:59:42] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/console/Symfony/Component/Console/Application.php on line 12
+[14-Mar-2015 12:00:17] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/console/Symfony/Component/Console/Shell.php on line 12
+[14-Mar-2015 12:01:44] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/console/Symfony/Component/Console/ConsoleEvents.php on line 12
+[21-Mar-2015 22:10:43] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/console/Symfony/Component/Console/Application.php on line 12
+[24-Mar-2015 00:12:11] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/console/Symfony/Component/Console/Shell.php on line 12
+[24-Mar-2015 07:27:30] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/console/Symfony/Component/Console/ConsoleEvents.php on line 12
+[30-Apr-2015 16:55:45] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/console/Symfony/Component/Console/Application.php on line 12
+[02-May-2015 02:11:40] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/console/Symfony/Component/Console/Shell.php on line 12
+[11-May-2015 19:00:30] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/console/Symfony/Component/Console/ConsoleEvents.php on line 12

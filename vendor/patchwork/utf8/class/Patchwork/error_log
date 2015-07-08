@@ -1,0 +1,10 @@
+[10-Mar-2015 15:39:45] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/patchwork/utf8/class/Patchwork/TurkishUtf8.php on line 11
+[10-Mar-2015 15:39:46] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/patchwork/utf8/class/Patchwork/Utf8.php on line 11
+[10-Mar-2015 20:31:05] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/patchwork/utf8/class/Patchwork/TurkishUtf8.php on line 11
+[10-Mar-2015 20:31:06] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/patchwork/utf8/class/Patchwork/Utf8.php on line 11
+[14-Mar-2015 11:47:13] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/patchwork/utf8/class/Patchwork/TurkishUtf8.php on line 11
+[14-Mar-2015 11:47:14] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/patchwork/utf8/class/Patchwork/Utf8.php on line 11
+[17-Mar-2015 08:01:03] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/patchwork/utf8/class/Patchwork/Utf8.php on line 11
+[17-Mar-2015 08:15:38] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/patchwork/utf8/class/Patchwork/TurkishUtf8.php on line 11
+[30-Mar-2015 02:25:22] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/patchwork/utf8/class/Patchwork/TurkishUtf8.php on line 11
+[30-Mar-2015 04:20:26] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/patchwork/utf8/class/Patchwork/Utf8.php on line 11

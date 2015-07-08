@@ -1,0 +1,9 @@
+[13-Mar-2015 08:52:17] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Mail/Transport/MandrillTransport.php on line 1
+[14-Mar-2015 04:41:53] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Mail/Transport/LogTransport.php on line 1
+[14-Mar-2015 08:32:17] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Mail/Transport/MailgunTransport.php on line 1
+[14-Mar-2015 12:10:10] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Mail/Transport/MandrillTransport.php on line 1
+[14-Mar-2015 12:17:39] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Mail/Transport/LogTransport.php on line 1
+[14-Mar-2015 15:08:41] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Mail/Transport/MailgunTransport.php on line 1
+[13-Jun-2015 03:23:27] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Mail/Transport/MandrillTransport.php on line 1
+[01-Jul-2015 11:20:17] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Mail/Transport/LogTransport.php on line 1
+[02-Jul-2015 00:02:55] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Mail/Transport/MailgunTransport.php on line 1

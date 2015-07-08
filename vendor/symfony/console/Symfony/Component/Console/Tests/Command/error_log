@@ -1,0 +1,6 @@
+[15-Mar-2015 01:50:29] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/console/Symfony/Component/Console/Tests/Command/CommandTest.php on line 12
+[15-Mar-2015 03:31:48] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/console/Symfony/Component/Console/Tests/Command/CommandTest.php on line 12
+[15-Mar-2015 07:39:44] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/console/Symfony/Component/Console/Tests/Command/ListCommandTest.php on line 12
+[15-Mar-2015 09:22:35] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/console/Symfony/Component/Console/Tests/Command/ListCommandTest.php on line 12
+[15-Mar-2015 19:22:20] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/console/Symfony/Component/Console/Tests/Command/HelpCommandTest.php on line 12
+[15-Mar-2015 21:06:55] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/console/Symfony/Component/Console/Tests/Command/HelpCommandTest.php on line 12

@@ -1,0 +1,6 @@
+[13-Mar-2015 04:42:23] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Queue/Failed/FailedJobProviderInterface.php on line 1
+[14-Mar-2015 08:36:25] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Queue/Failed/DatabaseFailedJobProvider.php on line 1
+[14-Mar-2015 12:08:45] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Queue/Failed/FailedJobProviderInterface.php on line 1
+[14-Mar-2015 15:14:31] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Queue/Failed/DatabaseFailedJobProvider.php on line 1
+[07-Jun-2015 06:24:12] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Queue/Failed/FailedJobProviderInterface.php on line 1
+[02-Jul-2015 00:17:38] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Queue/Failed/DatabaseFailedJobProvider.php on line 1

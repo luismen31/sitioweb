@@ -1,0 +1,5 @@
+[11-Mar-2015 14:08:51] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/lib/Predis/Monitor/MonitorContext.php on line 12
+[14-Mar-2015 11:59:18] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/lib/Predis/Monitor/MonitorContext.php on line 12
+[17-Mar-2015 08:28:03] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/lib/Predis/Monitor/MonitorContext.php on line 12
+[19-Mar-2015 12:01:04] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/lib/Predis/Monitor/MonitorContext.php on line 12
+[29-Apr-2015 11:08:01] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/lib/Predis/Monitor/MonitorContext.php on line 12

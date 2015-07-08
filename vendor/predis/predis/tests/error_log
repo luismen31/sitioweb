@@ -1,0 +1,12 @@
+[10-Mar-2015 15:38:08] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/tests/bootstrap.php on line 15
+[10-Mar-2015 15:38:08] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/tests/bootstrap.php on line 15
+[10-Mar-2015 20:20:34] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/tests/bootstrap.php on line 15
+[10-Mar-2015 20:20:34] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/tests/bootstrap.php on line 15
+[14-Mar-2015 11:36:45] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/tests/bootstrap.php on line 15
+[14-Mar-2015 11:36:45] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/tests/bootstrap.php on line 15
+[17-Mar-2015 07:50:03] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/tests/bootstrap.php on line 15
+[17-Mar-2015 07:50:03] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/tests/bootstrap.php on line 15
+[19-Mar-2015 08:14:42] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/tests/bootstrap.php on line 15
+[19-Mar-2015 08:14:42] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/tests/bootstrap.php on line 15
+[22-Mar-2015 23:31:23] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/tests/bootstrap.php on line 15
+[22-Mar-2015 23:31:23] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/tests/bootstrap.php on line 15

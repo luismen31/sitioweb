@@ -1,0 +1,9 @@
+[13-Mar-2015 07:07:33] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php on line 1
+[13-Mar-2015 07:42:31] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Database/Schema/Builder.php on line 1
+[13-Mar-2015 21:02:19] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php on line 1
+[14-Mar-2015 12:09:28] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php on line 1
+[14-Mar-2015 12:09:42] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Database/Schema/Builder.php on line 1
+[14-Mar-2015 12:14:41] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php on line 1
+[09-Jun-2015 04:28:54] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Database/Schema/MySqlBuilder.php on line 1
+[09-Jun-2015 21:20:11] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Database/Schema/Builder.php on line 1
+[30-Jun-2015 18:55:57] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Database/Schema/Blueprint.php on line 1

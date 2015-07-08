@@ -1,0 +1,5 @@
+[11-Mar-2015 00:02:13] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/lib/Predis/Session/SessionHandler.php on line 12
+[14-Mar-2015 11:56:36] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/lib/Predis/Session/SessionHandler.php on line 12
+[17-Mar-2015 08:27:33] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/lib/Predis/Session/SessionHandler.php on line 12
+[24-Mar-2015 17:21:18] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/lib/Predis/Session/SessionHandler.php on line 12
+[05-Apr-2015 10:26:00] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/lib/Predis/Session/SessionHandler.php on line 12

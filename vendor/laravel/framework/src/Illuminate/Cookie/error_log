@@ -1,0 +1,16 @@
+[10-Mar-2015 15:42:04] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Cookie/CookieJar.php on line 1
+[10-Mar-2015 15:42:04] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Cookie/CookieServiceProvider.php on line 1
+[10-Mar-2015 15:42:05] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Cookie/Guard.php on line 1
+[10-Mar-2015 15:42:06] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Cookie/Queue.php on line 1
+[11-Mar-2015 15:00:12] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Cookie/CookieServiceProvider.php on line 1
+[11-Mar-2015 18:18:48] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Cookie/CookieJar.php on line 1
+[11-Mar-2015 20:37:10] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Cookie/Queue.php on line 1
+[12-Mar-2015 06:37:40] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Cookie/Guard.php on line 1
+[14-Mar-2015 11:59:31] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Cookie/CookieServiceProvider.php on line 1
+[14-Mar-2015 12:00:21] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Cookie/CookieJar.php on line 1
+[14-Mar-2015 12:00:55] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Cookie/Queue.php on line 1
+[14-Mar-2015 12:03:21] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Cookie/Guard.php on line 1
+[30-Apr-2015 03:17:06] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Cookie/CookieServiceProvider.php on line 1
+[02-May-2015 07:58:23] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Cookie/CookieJar.php on line 1
+[08-May-2015 23:29:57] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Cookie/Queue.php on line 1
+[16-May-2015 11:43:19] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Cookie/Guard.php on line 1

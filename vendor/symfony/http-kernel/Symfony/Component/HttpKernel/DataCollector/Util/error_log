@@ -1,0 +1,2 @@
+[15-Mar-2015 03:42:16] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/DataCollector/Util/ValueExporter.php on line 12
+[15-Mar-2015 05:20:29] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/DataCollector/Util/ValueExporter.php on line 12

@@ -1,0 +1,6 @@
+[16-Mar-2015 05:57:51] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/security-core/Symfony/Component/Security/Core/Tests/Util/SecureRandomTest.php on line 12
+[16-Mar-2015 07:33:31] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/security-core/Symfony/Component/Security/Core/Tests/Util/SecureRandomTest.php on line 12
+[16-Mar-2015 16:50:39] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/security-core/Symfony/Component/Security/Core/Tests/Util/StringUtilsTest.php on line 12
+[16-Mar-2015 18:42:12] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/security-core/Symfony/Component/Security/Core/Tests/Util/ClassUtilsTest.php on line 12
+[16-Mar-2015 19:08:24] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/security-core/Symfony/Component/Security/Core/Tests/Util/StringUtilsTest.php on line 12
+[16-Mar-2015 21:39:54] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/security-core/Symfony/Component/Security/Core/Tests/Util/ClassUtilsTest.php on line 12

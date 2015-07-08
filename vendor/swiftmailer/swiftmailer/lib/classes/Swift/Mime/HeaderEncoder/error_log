@@ -1,0 +1,4 @@
+[15-Mar-2015 03:07:49] PHP Fatal error:  Class 'Swift_Encoder_Base64Encoder' not found in /home4/jsaldana/public_html/sistecsolutions.net/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/HeaderEncoder/Base64HeaderEncoder.php on line 16
+[15-Mar-2015 04:45:32] PHP Fatal error:  Class 'Swift_Encoder_Base64Encoder' not found in /home4/jsaldana/public_html/sistecsolutions.net/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/HeaderEncoder/Base64HeaderEncoder.php on line 16
+[16-Mar-2015 03:37:53] PHP Fatal error:  Class 'Swift_Encoder_QpEncoder' not found in /home4/jsaldana/public_html/sistecsolutions.net/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/HeaderEncoder/QpHeaderEncoder.php on line 16
+[16-Mar-2015 05:15:28] PHP Fatal error:  Class 'Swift_Encoder_QpEncoder' not found in /home4/jsaldana/public_html/sistecsolutions.net/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Mime/HeaderEncoder/QpHeaderEncoder.php on line 16

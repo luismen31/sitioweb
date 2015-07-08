@@ -1,0 +1,6 @@
+[12-Mar-2015 23:12:15] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Cache/Console/ClearCommand.php on line 1
+[14-Mar-2015 09:29:11] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Cache/Console/CacheTableCommand.php on line 1
+[14-Mar-2015 12:07:49] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Cache/Console/ClearCommand.php on line 1
+[14-Mar-2015 16:02:52] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Cache/Console/CacheTableCommand.php on line 1
+[02-Jun-2015 12:16:53] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Cache/Console/ClearCommand.php on line 1
+[02-Jul-2015 02:31:27] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Cache/Console/CacheTableCommand.php on line 1

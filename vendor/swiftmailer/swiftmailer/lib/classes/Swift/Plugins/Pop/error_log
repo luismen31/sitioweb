@@ -1,0 +1,2 @@
+[14-Mar-2015 22:20:36] PHP Fatal error:  Class 'Swift_IoException' not found in /home4/jsaldana/public_html/sistecsolutions.net/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Plugins/Pop/Pop3Exception.php on line 16
+[15-Mar-2015 01:09:30] PHP Fatal error:  Class 'Swift_IoException' not found in /home4/jsaldana/public_html/sistecsolutions.net/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Plugins/Pop/Pop3Exception.php on line 16

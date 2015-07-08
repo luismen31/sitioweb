@@ -1,0 +1,6 @@
+[15-Mar-2015 16:02:17] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/routing/Symfony/Component/Routing/Generator/Dumper/GeneratorDumperInterface.php on line 12
+[15-Mar-2015 17:14:06] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/routing/Symfony/Component/Routing/Generator/Dumper/PhpGeneratorDumper.php on line 12
+[15-Mar-2015 17:40:38] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/routing/Symfony/Component/Routing/Generator/Dumper/GeneratorDumperInterface.php on line 12
+[15-Mar-2015 18:52:59] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/routing/Symfony/Component/Routing/Generator/Dumper/PhpGeneratorDumper.php on line 12
+[16-Mar-2015 01:28:13] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/routing/Symfony/Component/Routing/Generator/Dumper/GeneratorDumper.php on line 12
+[16-Mar-2015 03:06:07] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/routing/Symfony/Component/Routing/Generator/Dumper/GeneratorDumper.php on line 12

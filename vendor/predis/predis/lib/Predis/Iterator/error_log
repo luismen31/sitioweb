@@ -1,0 +1,10 @@
+[11-Mar-2015 02:30:34] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/lib/Predis/Iterator/MultiBulkResponse.php on line 12
+[12-Mar-2015 05:10:33] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/lib/Predis/Iterator/MultiBulkResponseTuple.php on line 12
+[12-Mar-2015 15:04:18] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/lib/Predis/Iterator/MultiBulkResponseSimple.php on line 12
+[14-Mar-2015 11:56:51] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/lib/Predis/Iterator/MultiBulkResponse.php on line 12
+[14-Mar-2015 12:03:00] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/lib/Predis/Iterator/MultiBulkResponseTuple.php on line 12
+[14-Mar-2015 12:05:23] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/lib/Predis/Iterator/MultiBulkResponseSimple.php on line 12
+[17-Mar-2015 08:42:23] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/lib/Predis/Iterator/MultiBulkResponse.php on line 12
+[07-Apr-2015 02:22:31] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/lib/Predis/Iterator/MultiBulkResponse.php on line 12
+[15-May-2015 12:52:53] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/lib/Predis/Iterator/MultiBulkResponseTuple.php on line 12
+[24-May-2015 03:05:47] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/lib/Predis/Iterator/MultiBulkResponseSimple.php on line 12

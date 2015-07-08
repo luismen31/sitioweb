@@ -1,0 +1,6 @@
+[16-Mar-2015 09:09:32] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Profiler/Mock/RedisMock.php on line 12
+[16-Mar-2015 10:38:40] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Profiler/Mock/RedisMock.php on line 12
+[16-Mar-2015 10:48:39] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Profiler/Mock/MemcachedMock.php on line 12
+[16-Mar-2015 12:22:35] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Profiler/Mock/MemcachedMock.php on line 12
+[16-Mar-2015 18:28:57] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Profiler/Mock/MemcacheMock.php on line 12
+[16-Mar-2015 21:18:38] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/Profiler/Mock/MemcacheMock.php on line 12

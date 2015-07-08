@@ -1,0 +1,13 @@
+[11-Mar-2015 04:22:17] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/debug/Symfony/Component/Debug/ErrorHandler.php on line 12
+[11-Mar-2015 10:09:51] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/debug/Symfony/Component/Debug/ExceptionHandler.php on line 12
+[11-Mar-2015 23:42:16] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/debug/Symfony/Component/Debug/DebugClassLoader.php on line 12
+[12-Mar-2015 07:42:17] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/debug/Symfony/Component/Debug/Debug.php on line 12
+[14-Mar-2015 11:57:26] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/debug/Symfony/Component/Debug/ErrorHandler.php on line 12
+[14-Mar-2015 11:58:31] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/debug/Symfony/Component/Debug/ExceptionHandler.php on line 12
+[14-Mar-2015 12:01:42] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/debug/Symfony/Component/Debug/DebugClassLoader.php on line 12
+[14-Mar-2015 12:03:37] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/debug/Symfony/Component/Debug/Debug.php on line 12
+[08-Apr-2015 14:37:37] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/debug/Symfony/Component/Debug/ErrorHandler.php on line 12
+[13-Apr-2015 11:52:48] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/debug/Symfony/Component/Debug/ExceptionHandler.php on line 12
+[11-May-2015 17:21:08] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/debug/Symfony/Component/Debug/DebugClassLoader.php on line 12
+[17-May-2015 12:40:36] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/debug/Symfony/Component/Debug/Debug.php on line 12
+[07-Jul-2015 19:03:51] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/debug/Symfony/Component/Debug/ErrorHandler.php on line 12

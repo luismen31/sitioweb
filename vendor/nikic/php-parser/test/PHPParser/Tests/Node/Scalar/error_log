@@ -1,0 +1,2 @@
+[14-Mar-2015 23:00:05] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home4/jsaldana/public_html/sistecsolutions.net/vendor/nikic/php-parser/test/PHPParser/Tests/Node/Scalar/StringTest.php on line 3
+[15-Mar-2015 01:41:31] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home4/jsaldana/public_html/sistecsolutions.net/vendor/nikic/php-parser/test/PHPParser/Tests/Node/Scalar/StringTest.php on line 3

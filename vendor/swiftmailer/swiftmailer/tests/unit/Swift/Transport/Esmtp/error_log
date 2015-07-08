@@ -1,0 +1,4 @@
+[14-Mar-2015 19:30:08] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home4/jsaldana/public_html/sistecsolutions.net/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Transport/Esmtp/AuthHandlerTest.php on line 3
+[14-Mar-2015 19:30:08] PHP Fatal error:  Class 'SwiftMailerTestCase' not found in /home4/jsaldana/public_html/sistecsolutions.net/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Transport/Esmtp/AuthHandlerTest.php on line 3
+[14-Mar-2015 23:18:33] PHP Warning:  Unexpected character in input:  '\' (ASCII=92) state=1 in /home4/jsaldana/public_html/sistecsolutions.net/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Transport/Esmtp/AuthHandlerTest.php on line 3
+[14-Mar-2015 23:18:33] PHP Fatal error:  Class 'SwiftMailerTestCase' not found in /home4/jsaldana/public_html/sistecsolutions.net/vendor/swiftmailer/swiftmailer/tests/unit/Swift/Transport/Esmtp/AuthHandlerTest.php on line 3

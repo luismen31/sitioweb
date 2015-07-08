@@ -1,0 +1,12 @@
+[10-Mar-2015 15:42:22] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Encryption/DecryptException.php on line 1
+[10-Mar-2015 15:42:23] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Encryption/Encrypter.php on line 1
+[10-Mar-2015 15:42:23] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Encryption/EncryptionServiceProvider.php on line 1
+[11-Mar-2015 04:05:12] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Encryption/DecryptException.php on line 1
+[11-Mar-2015 04:36:12] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Encryption/Encrypter.php on line 1
+[12-Mar-2015 00:14:41] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Encryption/EncryptionServiceProvider.php on line 1
+[14-Mar-2015 11:57:23] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Encryption/DecryptException.php on line 1
+[14-Mar-2015 11:57:29] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Encryption/Encrypter.php on line 1
+[14-Mar-2015 12:01:48] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Encryption/EncryptionServiceProvider.php on line 1
+[08-Apr-2015 09:02:53] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Encryption/DecryptException.php on line 1
+[08-Apr-2015 19:37:44] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Encryption/Encrypter.php on line 1
+[11-May-2015 19:26:21] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Encryption/EncryptionServiceProvider.php on line 1

@@ -1,0 +1,6 @@
+[11-Mar-2015 09:22:09] PHP Fatal error:  Class 'PhpseclibFunctionalTestCase' not found in /home4/jsaldana/public_html/sistecsolutions.net/vendor/phpseclib/phpseclib/tests/Functional/Net/SSH2Test.php on line 9
+[11-Mar-2015 21:50:09] PHP Fatal error:  Class 'PhpseclibFunctionalTestCase' not found in /home4/jsaldana/public_html/sistecsolutions.net/vendor/phpseclib/phpseclib/tests/Functional/Net/SFTPUserStoryTest.php on line 9
+[14-Mar-2015 11:58:21] PHP Fatal error:  Class 'PhpseclibFunctionalTestCase' not found in /home4/jsaldana/public_html/sistecsolutions.net/vendor/phpseclib/phpseclib/tests/Functional/Net/SSH2Test.php on line 9
+[14-Mar-2015 12:01:13] PHP Fatal error:  Class 'PhpseclibFunctionalTestCase' not found in /home4/jsaldana/public_html/sistecsolutions.net/vendor/phpseclib/phpseclib/tests/Functional/Net/SFTPUserStoryTest.php on line 9
+[12-Apr-2015 17:49:56] PHP Fatal error:  Class 'PhpseclibFunctionalTestCase' not found in /home4/jsaldana/public_html/sistecsolutions.net/vendor/phpseclib/phpseclib/tests/Functional/Net/SSH2Test.php on line 9
+[10-May-2015 00:52:25] PHP Fatal error:  Class 'PhpseclibFunctionalTestCase' not found in /home4/jsaldana/public_html/sistecsolutions.net/vendor/phpseclib/phpseclib/tests/Functional/Net/SFTPUserStoryTest.php on line 9

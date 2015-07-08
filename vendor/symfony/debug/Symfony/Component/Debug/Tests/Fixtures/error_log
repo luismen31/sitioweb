@@ -1,0 +1,10 @@
+[15-Mar-2015 02:42:22] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/debug/Symfony/Component/Debug/Tests/Fixtures/casemismatch.php on line 3
+[15-Mar-2015 04:21:32] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/debug/Symfony/Component/Debug/Tests/Fixtures/casemismatch.php on line 3
+[15-Mar-2015 08:12:24] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/debug/Symfony/Component/Debug/Tests/Fixtures/notPsr0Bis.php on line 3
+[15-Mar-2015 09:53:49] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/debug/Symfony/Component/Debug/Tests/Fixtures/notPsr0Bis.php on line 3
+[15-Mar-2015 19:52:20] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/debug/Symfony/Component/Debug/Tests/Fixtures/reallyNotPsr0.php on line 3
+[15-Mar-2015 21:16:01] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/debug/Symfony/Component/Debug/Tests/Fixtures/RequiredTwice.php on line 3
+[15-Mar-2015 21:41:39] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/debug/Symfony/Component/Debug/Tests/Fixtures/reallyNotPsr0.php on line 3
+[15-Mar-2015 22:54:03] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/debug/Symfony/Component/Debug/Tests/Fixtures/RequiredTwice.php on line 3
+[16-Mar-2015 04:50:23] PHP Fatal error:  Call to undefined function  class_alias() in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/debug/Symfony/Component/Debug/Tests/Fixtures/ClassAlias.php on line 3
+[16-Mar-2015 06:29:28] PHP Fatal error:  Call to undefined function  class_alias() in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/debug/Symfony/Component/Debug/Tests/Fixtures/ClassAlias.php on line 3

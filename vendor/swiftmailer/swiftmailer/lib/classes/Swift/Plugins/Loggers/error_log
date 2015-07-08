@@ -1,0 +1,4 @@
+[14-Mar-2015 23:10:48] PHP Fatal error:  Interface 'Swift_Plugins_Logger' not found in /home4/jsaldana/public_html/sistecsolutions.net/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Plugins/Loggers/ArrayLogger.php on line 16
+[15-Mar-2015 01:49:16] PHP Fatal error:  Interface 'Swift_Plugins_Logger' not found in /home4/jsaldana/public_html/sistecsolutions.net/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Plugins/Loggers/ArrayLogger.php on line 16
+[15-Mar-2015 18:34:10] PHP Fatal error:  Interface 'Swift_Plugins_Logger' not found in /home4/jsaldana/public_html/sistecsolutions.net/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Plugins/Loggers/EchoLogger.php on line 16
+[15-Mar-2015 20:08:37] PHP Fatal error:  Interface 'Swift_Plugins_Logger' not found in /home4/jsaldana/public_html/sistecsolutions.net/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Plugins/Loggers/EchoLogger.php on line 16
