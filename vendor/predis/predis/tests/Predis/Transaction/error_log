@@ -1,6 +1,0 @@
-[11-Mar-2015 13:22:12] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/tests/Predis/Transaction/AbortedMultiExecExceptionTest.php on line 12
-[11-Mar-2015 15:34:06] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/tests/Predis/Transaction/MultiExecContextTest.php on line 12
-[14-Mar-2015 11:59:07] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/tests/Predis/Transaction/AbortedMultiExecExceptionTest.php on line 12
-[14-Mar-2015 11:59:39] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/tests/Predis/Transaction/MultiExecContextTest.php on line 12
-[28-Apr-2015 22:36:08] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/tests/Predis/Transaction/AbortedMultiExecExceptionTest.php on line 12
-[30-Apr-2015 13:50:41] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/tests/Predis/Transaction/MultiExecContextTest.php on line 12

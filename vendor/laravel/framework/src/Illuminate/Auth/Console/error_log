@@ -1,9 +1,0 @@
-[12-Mar-2015 17:11:28] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Auth/Console/ClearRemindersCommand.php on line 1
-[13-Mar-2015 04:20:31] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Auth/Console/RemindersControllerCommand.php on line 1
-[13-Mar-2015 09:52:21] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Auth/Console/RemindersTableCommand.php on line 1
-[14-Mar-2015 12:06:53] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Auth/Console/ClearRemindersCommand.php on line 1
-[14-Mar-2015 12:08:41] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Auth/Console/RemindersControllerCommand.php on line 1
-[14-Mar-2015 12:10:32] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Auth/Console/RemindersTableCommand.php on line 1
-[29-May-2015 09:49:27] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Auth/Console/ClearRemindersCommand.php on line 1
-[06-Jun-2015 21:11:15] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Auth/Console/RemindersControllerCommand.php on line 1
-[13-Jun-2015 23:44:32] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Auth/Console/RemindersTableCommand.php on line 1

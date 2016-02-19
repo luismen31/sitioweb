@@ -1,8 +1,0 @@
-[10-Mar-2015 15:42:25] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php on line 1
-[10-Mar-2015 15:42:25] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Events/EventServiceProvider.php on line 1
-[12-Mar-2015 12:06:36] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Events/EventServiceProvider.php on line 1
-[12-Mar-2015 13:02:12] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php on line 1
-[14-Mar-2015 12:04:39] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Events/EventServiceProvider.php on line 1
-[14-Mar-2015 12:04:55] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php on line 1
-[21-May-2015 08:20:00] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Events/EventServiceProvider.php on line 1
-[22-May-2015 15:26:08] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Events/Dispatcher.php on line 1

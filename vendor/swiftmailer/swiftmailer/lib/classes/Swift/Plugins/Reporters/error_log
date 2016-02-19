@@ -1,4 +1,0 @@
-[15-Mar-2015 01:19:39] PHP Fatal error:  Interface 'Swift_Plugins_Reporter' not found in /home4/jsaldana/public_html/sistecsolutions.net/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Plugins/Reporters/HitReporter.php on line 16
-[15-Mar-2015 03:15:05] PHP Fatal error:  Interface 'Swift_Plugins_Reporter' not found in /home4/jsaldana/public_html/sistecsolutions.net/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Plugins/Reporters/HitReporter.php on line 16
-[15-Mar-2015 12:00:43] PHP Fatal error:  Interface 'Swift_Plugins_Reporter' not found in /home4/jsaldana/public_html/sistecsolutions.net/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Plugins/Reporters/HtmlReporter.php on line 16
-[15-Mar-2015 13:40:23] PHP Fatal error:  Interface 'Swift_Plugins_Reporter' not found in /home4/jsaldana/public_html/sistecsolutions.net/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Plugins/Reporters/HtmlReporter.php on line 16

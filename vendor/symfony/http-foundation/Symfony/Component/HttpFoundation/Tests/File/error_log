@@ -1,6 +1,0 @@
-[14-Mar-2015 19:12:13] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/File/FakeFile.php on line 12
-[14-Mar-2015 23:08:36] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/File/FakeFile.php on line 12
-[15-Mar-2015 05:37:47] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/File/UploadedFileTest.php on line 12
-[15-Mar-2015 07:17:31] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/File/UploadedFileTest.php on line 12
-[16-Mar-2015 00:02:16] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/File/FileTest.php on line 12
-[16-Mar-2015 01:41:05] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/http-foundation/Symfony/Component/HttpFoundation/Tests/File/FileTest.php on line 12

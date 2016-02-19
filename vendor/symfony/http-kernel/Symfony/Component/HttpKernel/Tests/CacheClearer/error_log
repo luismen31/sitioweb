@@ -1,2 +1,0 @@
-[14-Mar-2015 20:53:36] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/CacheClearer/ChainCacheClearerTest.php on line 12
-[15-Mar-2015 00:17:51] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/http-kernel/Symfony/Component/HttpKernel/Tests/CacheClearer/ChainCacheClearerTest.php on line 12

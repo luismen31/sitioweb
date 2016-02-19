@@ -1,4 +1,0 @@
-[12-Mar-2015 03:59:56] PHP Fatal error:  Class 'PHPParser_NodeVisitorAbstract' not found in /home4/jsaldana/public_html/sistecsolutions.net/vendor/nikic/php-parser/lib/PHPParser/NodeVisitor/NameResolver.php on line 3
-[14-Mar-2015 12:02:43] PHP Fatal error:  Class 'PHPParser_NodeVisitorAbstract' not found in /home4/jsaldana/public_html/sistecsolutions.net/vendor/nikic/php-parser/lib/PHPParser/NodeVisitor/NameResolver.php on line 3
-[24-Mar-2015 07:59:23] PHP Fatal error:  Class 'PHPParser_NodeVisitorAbstract' not found in /home4/jsaldana/public_html/sistecsolutions.net/vendor/nikic/php-parser/lib/PHPParser/NodeVisitor/NameResolver.php on line 3
-[14-May-2015 12:28:59] PHP Fatal error:  Class 'PHPParser_NodeVisitorAbstract' not found in /home4/jsaldana/public_html/sistecsolutions.net/vendor/nikic/php-parser/lib/PHPParser/NodeVisitor/NameResolver.php on line 3

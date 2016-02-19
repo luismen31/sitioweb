@@ -1,9 +1,0 @@
-[13-Mar-2015 01:32:15] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/View/Compilers/CompilerInterface.php on line 1
-[13-Mar-2015 08:18:06] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 1
-[13-Mar-2015 08:40:32] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php on line 1
-[14-Mar-2015 12:08:11] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/View/Compilers/CompilerInterface.php on line 1
-[14-Mar-2015 12:09:56] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 1
-[14-Mar-2015 12:10:04] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php on line 1
-[04-Jun-2015 16:13:35] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/View/Compilers/CompilerInterface.php on line 1
-[10-Jun-2015 06:46:31] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/View/Compilers/Compiler.php on line 1
-[10-Jun-2015 14:04:20] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php on line 1

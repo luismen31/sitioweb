@@ -1,8 +1,0 @@
-[15-Mar-2015 02:16:42] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/console/Symfony/Component/Console/Tests/Output/NullOutputTest.php on line 12
-[15-Mar-2015 03:55:48] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/console/Symfony/Component/Console/Tests/Output/NullOutputTest.php on line 12
-[15-Mar-2015 10:07:26] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/console/Symfony/Component/Console/Tests/Output/ConsoleOutputTest.php on line 12
-[15-Mar-2015 11:49:10] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/console/Symfony/Component/Console/Tests/Output/ConsoleOutputTest.php on line 12
-[15-Mar-2015 14:08:38] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/console/Symfony/Component/Console/Tests/Output/StreamOutputTest.php on line 12
-[15-Mar-2015 15:48:38] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/console/Symfony/Component/Console/Tests/Output/StreamOutputTest.php on line 12
-[15-Mar-2015 22:04:24] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/console/Symfony/Component/Console/Tests/Output/OutputTest.php on line 12
-[15-Mar-2015 23:38:36] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/console/Symfony/Component/Console/Tests/Output/OutputTest.php on line 12

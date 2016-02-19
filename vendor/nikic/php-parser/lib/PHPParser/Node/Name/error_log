@@ -1,8 +1,0 @@
-[14-Mar-2015 01:35:16] PHP Fatal error:  Class 'PHPParser_Node_Name' not found in /home4/jsaldana/public_html/sistecsolutions.net/vendor/nikic/php-parser/lib/PHPParser/Node/Name/FullyQualified.php on line 3
-[14-Mar-2015 07:05:50] PHP Fatal error:  Class 'PHPParser_Node_Name' not found in /home4/jsaldana/public_html/sistecsolutions.net/vendor/nikic/php-parser/lib/PHPParser/Node/Name/Relative.php on line 3
-[14-Mar-2015 12:16:23] PHP Fatal error:  Class 'PHPParser_Node_Name' not found in /home4/jsaldana/public_html/sistecsolutions.net/vendor/nikic/php-parser/lib/PHPParser/Node/Name/FullyQualified.php on line 3
-[14-Mar-2015 13:46:51] PHP Fatal error:  Class 'PHPParser_Node_Name' not found in /home4/jsaldana/public_html/sistecsolutions.net/vendor/nikic/php-parser/lib/PHPParser/Node/Name/Relative.php on line 3
-[01-Jul-2015 06:42:09] PHP Fatal error:  Class 'PHPParser_Node_Name' not found in /home4/jsaldana/public_html/sistecsolutions.net/vendor/nikic/php-parser/lib/PHPParser/Node/Name/FullyQualified.php on line 3
-[01-Jul-2015 17:20:11] PHP Fatal error:  Class 'PHPParser_Node_Name' not found in /home4/jsaldana/public_html/sistecsolutions.net/vendor/nikic/php-parser/lib/PHPParser/Node/Name/Relative.php on line 3
-[04-Jul-2015 10:57:52] PHP Fatal error:  Class 'PHPParser_Node_Name' not found in /home4/jsaldana/public_html/sistecsolutions.net/vendor/nikic/php-parser/lib/PHPParser/Node/Name/FullyQualified.php on line 3
-[05-Jul-2015 04:06:17] PHP Fatal error:  Class 'PHPParser_Node_Name' not found in /home4/jsaldana/public_html/sistecsolutions.net/vendor/nikic/php-parser/lib/PHPParser/Node/Name/Relative.php on line 3

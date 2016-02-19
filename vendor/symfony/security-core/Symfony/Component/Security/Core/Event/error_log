@@ -1,4 +1,0 @@
-[15-Mar-2015 01:12:23] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/security-core/Symfony/Component/Security/Core/Event/AuthenticationFailureEvent.php on line 12
-[15-Mar-2015 01:46:18] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/security-core/Symfony/Component/Security/Core/Event/AuthenticationEvent.php on line 12
-[15-Mar-2015 03:09:19] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/security-core/Symfony/Component/Security/Core/Event/AuthenticationFailureEvent.php on line 12
-[15-Mar-2015 03:28:55] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/security-core/Symfony/Component/Security/Core/Event/AuthenticationEvent.php on line 12

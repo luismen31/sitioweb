@@ -1,2 +1,0 @@
-[15-Mar-2015 18:40:42] PHP Fatal error:  Interface 'Swift_Transport_EsmtpHandler' not found in /home4/jsaldana/public_html/sistecsolutions.net/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.php on line 16
-[15-Mar-2015 20:25:47] PHP Fatal error:  Interface 'Swift_Transport_EsmtpHandler' not found in /home4/jsaldana/public_html/sistecsolutions.net/vendor/swiftmailer/swiftmailer/lib/classes/Swift/Transport/Esmtp/AuthHandler.php on line 16

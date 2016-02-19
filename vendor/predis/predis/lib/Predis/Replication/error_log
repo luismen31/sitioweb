@@ -1,4 +1,0 @@
-[11-Mar-2015 13:12:08] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/lib/Predis/Replication/ReplicationStrategy.php on line 12
-[14-Mar-2015 11:59:06] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/lib/Predis/Replication/ReplicationStrategy.php on line 12
-[24-Mar-2015 06:22:37] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/lib/Predis/Replication/ReplicationStrategy.php on line 12
-[28-Apr-2015 20:40:55] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/lib/Predis/Replication/ReplicationStrategy.php on line 12

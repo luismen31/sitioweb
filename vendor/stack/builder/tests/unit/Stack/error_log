@@ -1,9 +1,0 @@
-[11-Mar-2015 11:50:12] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/stack/builder/tests/unit/Stack/BuilderTest.php on line 3
-[12-Mar-2015 14:22:14] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/stack/builder/tests/unit/Stack/StackedHttpKernelTest.php on line 3
-[14-Mar-2015 12:06:40] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/stack/builder/tests/unit/Stack/BuilderTest.php on line 3
-[14-Mar-2015 12:06:43] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/stack/builder/tests/unit/Stack/StackedHttpKernelTest.php on line 3
-[17-Mar-2015 08:16:39] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/stack/builder/tests/unit/Stack/BuilderTest.php on line 3
-[17-Mar-2015 08:43:23] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/stack/builder/tests/unit/Stack/StackedHttpKernelTest.php on line 3
-[24-Mar-2015 17:20:48] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/stack/builder/tests/unit/Stack/BuilderTest.php on line 3
-[27-Apr-2015 17:55:49] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/stack/builder/tests/unit/Stack/BuilderTest.php on line 3
-[23-May-2015 11:58:24] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/stack/builder/tests/unit/Stack/StackedHttpKernelTest.php on line 3

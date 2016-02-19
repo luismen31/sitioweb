@@ -1,3 +1,0 @@
-[12-Mar-2015 21:39:32] PHP Parse error:  syntax error, unexpected T_FUNCTION, expecting ')' in /home4/jsaldana/public_html/sistecsolutions.net/vendor/monolog/monolog/tests/Monolog/Functional/Handler/FirePHPHandlerTest.php on line 12
-[14-Mar-2015 12:07:35] PHP Parse error:  syntax error, unexpected T_FUNCTION, expecting ')' in /home4/jsaldana/public_html/sistecsolutions.net/vendor/monolog/monolog/tests/Monolog/Functional/Handler/FirePHPHandlerTest.php on line 12
-[01-Jun-2015 03:17:15] PHP Parse error:  syntax error, unexpected T_FUNCTION, expecting ')' in /home4/jsaldana/public_html/sistecsolutions.net/vendor/monolog/monolog/tests/Monolog/Functional/Handler/FirePHPHandlerTest.php on line 12

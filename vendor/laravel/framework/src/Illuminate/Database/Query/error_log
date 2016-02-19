@@ -1,8 +1,0 @@
-[12-Mar-2015 19:40:02] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Database/Query/JoinClause.php on line 1
-[13-Mar-2015 07:32:19] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Database/Query/Expression.php on line 1
-[13-Mar-2015 21:26:58] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php on line 1
-[14-Mar-2015 12:07:19] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Database/Query/JoinClause.php on line 1
-[14-Mar-2015 12:09:39] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Database/Query/Expression.php on line 1
-[14-Mar-2015 12:14:49] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Database/Query/Builder.php on line 1
-[30-May-2015 16:53:32] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Database/Query/JoinClause.php on line 1
-[09-Jun-2015 13:30:18] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/laravel/framework/src/Illuminate/Database/Query/Expression.php on line 1

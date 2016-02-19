@@ -1,9 +1,0 @@
-[14-Mar-2015 01:17:25] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/finder/Symfony/Component/Finder/Comparator/Comparator.php on line 12
-[14-Mar-2015 01:53:07] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/finder/Symfony/Component/Finder/Comparator/DateComparator.php on line 12
-[14-Mar-2015 10:40:25] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/finder/Symfony/Component/Finder/Comparator/NumberComparator.php on line 12
-[14-Mar-2015 12:16:15] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/finder/Symfony/Component/Finder/Comparator/Comparator.php on line 12
-[14-Mar-2015 12:16:30] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/finder/Symfony/Component/Finder/Comparator/DateComparator.php on line 12
-[14-Mar-2015 17:11:15] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/finder/Symfony/Component/Finder/Comparator/NumberComparator.php on line 12
-[01-Jul-2015 05:57:06] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/finder/Symfony/Component/Finder/Comparator/Comparator.php on line 12
-[01-Jul-2015 06:57:25] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/finder/Symfony/Component/Finder/Comparator/DateComparator.php on line 12
-[02-Jul-2015 04:54:07] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/symfony/finder/Symfony/Component/Finder/Comparator/NumberComparator.php on line 12

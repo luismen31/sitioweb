@@ -1,6 +1,0 @@
-[12-Mar-2015 22:57:48] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/lib/Predis/Cluster/Hash/HashGeneratorInterface.php on line 12
-[13-Mar-2015 01:52:24] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/lib/Predis/Cluster/Hash/CRC16HashGenerator.php on line 12
-[14-Mar-2015 12:07:44] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/lib/Predis/Cluster/Hash/HashGeneratorInterface.php on line 12
-[14-Mar-2015 12:08:16] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/lib/Predis/Cluster/Hash/CRC16HashGenerator.php on line 12
-[02-Jun-2015 00:10:53] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/lib/Predis/Cluster/Hash/HashGeneratorInterface.php on line 12
-[05-Jun-2015 00:52:29] PHP Parse error:  syntax error, unexpected T_STRING in /home4/jsaldana/public_html/sistecsolutions.net/vendor/predis/predis/lib/Predis/Cluster/Hash/CRC16HashGenerator.php on line 12
